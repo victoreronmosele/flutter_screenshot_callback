@@ -23,7 +23,7 @@
 
 ### Import the package
 
-To use this plugin, follow the [**plugin installation instructions**](https://pub.dev/packages/screenshot_callback#-installing-tab-).
+To use this plugin, follow the [**plugin installation instructions**](https://pub.dev/packages/screenshot_callback#install).
 
 ### Use the plugin
 
